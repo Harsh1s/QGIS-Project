@@ -40,7 +40,7 @@ a:active {
 }
 
 body {
-  background-image: url("QGIS-Project/images/background.jpg");
+  background-image: url("/QGIS-Project/images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
